@@ -1,4 +1,4 @@
-# :computer: Website layout "Smart Phone App"
+# :computer: Website layout "Smart Phone App" (HTML5 + CSS3)
 https://seffoff.github.io/Website-layout-Smart-Phone-App/
 P.S. only for monitors 1920x1080
 
